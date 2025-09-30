@@ -3,7 +3,6 @@ class Cliente {
     private int id;
     private String nome;
     private int idade;
-
     public Cliente(int id, String nome, int idade) {
         this.id = id;
         this.nome = nome;
